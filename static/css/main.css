@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: SlateGrey;
+    background-color: darkolivegreen;
 }
 p {
     color: white;
@@ -11,7 +11,7 @@ p {
 }
 img {
     margin: 60px 0 30px 0;
-    width: 600px;
+    width: 350px;
 }
 input {
   width: 300px;
